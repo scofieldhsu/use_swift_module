@@ -6,6 +6,12 @@
       "reason": null,
       "repositoryURL": "https://github.com/scofieldhsu/swift_module1.git",
       "version": "1.0.0"
+    },
+    {
+      "package": "SwiftCModule",
+      "reason": null,
+      "repositoryURL": "https://github.com/scofieldhsu/swift_c_module.git",
+      "version": "1.0.0"
     }
   ],
   "version": 1
